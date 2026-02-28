@@ -52,3 +52,16 @@ It follows a modular architecture using Discord cogs for scalability and maintai
 ---
 
 ## Project Structure
+
+
+---
+
+## ⚙ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/KartikPassricha/NexusBot.git
+cd NexusBot
+python -m venv venv
+venv\Scripts\activate   # Windows
