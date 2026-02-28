@@ -53,6 +53,24 @@ It follows a modular architecture using Discord cogs for scalability and maintai
 
 ## Project Structure
 
+```text
+NexusBot/
+│
+├── cogs/                   # Discord command modules (Cogs)
+├── data/                   # Runtime or persistent data
+├── dataset/                # Training dataset for ML model
+├── models/                 # Stored trained Markov models
+│
+├── main.py                 # Bot entry point
+├── Nexus.py                # Core bot logic & setup
+├── train_model_t&d.py      # Markov model training script
+│
+├── index.html              # Optional web interface
+├── style.css
+├── script.js
+│
+└── README.md
+```
 
 ---
 
