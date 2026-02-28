@@ -74,7 +74,7 @@ NexusBot/
 
 ---
 
-## ⚙ Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/KartikPassricha/NexusBot.git
