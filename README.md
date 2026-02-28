@@ -56,16 +56,16 @@ It follows a modular architecture using Discord cogs for scalability and maintai
 ```text
 NexusBot/
 │
-├── cogs/                   # Discord command modules (Cogs)
-├── data/                   # Runtime or persistent data
-├── dataset/                # Training dataset for ML model
-├── models/                 # Stored trained Markov models
+├── cogs/                   
+├── data/                   
+├── dataset/               
+├── models/                 
 │
-├── main.py                 # Bot entry point
-├── Nexus.py                # Core bot logic & setup
-├── train_model_t&d.py      # Markov model training script
+├── main.py                 
+├── Nexus.py                
+├── train_model_t&d.py     
 │
-├── index.html              # Optional web interface
+├── index.html            
 ├── style.css
 ├── script.js
 │
@@ -75,8 +75,6 @@ NexusBot/
 ---
 
 ## ⚙ Installation & Setup
-
-### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KartikPassricha/NexusBot.git
